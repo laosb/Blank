@@ -1,0 +1,9 @@
+{
+  "name": "its-blank",
+  "version": "1.0.0",
+  "description": "Blank says more.",
+  "main": "index.js",
+  "repository": "https://github.com/laosb/Blank",
+  "author": "laosb",
+  "license": "MIT"
+}
